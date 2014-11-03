@@ -1,0 +1,10 @@
+NAME: Scott Stetzko
+EMAIL: scott.stetzko@csu.fullerton.edu
+
+DESCRIPTION: My program creates an app that is designed to calculate Fractions. It will allow the user to Type in a fraction then pick an operation to perform on another fraction. The only stipulation is that it will only perform operations on two fractions at a time. Also the program will only square root the first fraction correctly. 
+
+RUNNING THE PROGRAM: open the file labeled FractionCalculatorTester, and double click on the file that says FractionCalculatorTester.xcodeproj. This will open Xcode with the project ready to go. ensure the iPhone settings are set to iPhone retina (4inch 64-bit). now click on the play button on the top left. you will see that app start up and display on the screen as a simulator. Type in whatever fraction you would like to start off with. Then click on the operation you would like to do. then type in another fraction and press equals. It should then display the correct fraction. If you would like to perform another operation just press the AC button and it will clear it out and start over.
+
+NOTE: 
+1) The square root button will only square root the first operand.
+2) you can only do two operands at once. (could not implement it using the stack version)
